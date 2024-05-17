@@ -1,0 +1,15 @@
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\bin\Debug\net8.0\ParkingLot.Infrastructure.deps.json
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\bin\Debug\net8.0\ParkingLot.Infrastructure.dll
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\bin\Debug\net8.0\ParkingLot.Infrastructure.pdb
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\bin\Debug\net8.0\ParkingLot.Domain.dll
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\bin\Debug\net8.0\ParkingLot.Domain.pdb
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\obj\Debug\net8.0\ParkingLot.Infrastructure.csproj.AssemblyReference.cache
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\obj\Debug\net8.0\ParkingLot.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\obj\Debug\net8.0\ParkingLot.Infrastructure.AssemblyInfoInputs.cache
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\obj\Debug\net8.0\ParkingLot.Infrastructure.AssemblyInfo.cs
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\obj\Debug\net8.0\ParkingLot.Infrastructure.csproj.CoreCompileInputs.cache
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\obj\Debug\net8.0\ParkingL.A8E3A534.Up2Date
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\obj\Debug\net8.0\ParkingLot.Infrastructure.dll
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\obj\Debug\net8.0\refint\ParkingLot.Infrastructure.dll
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\obj\Debug\net8.0\ParkingLot.Infrastructure.pdb
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Infrastructure\obj\Debug\net8.0\ref\ParkingLot.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\bin\Debug\net7.0\ParkingLot.Domain.deps.json
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\bin\Debug\net7.0\ParkingLot.Domain.dll
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\bin\Debug\net7.0\ParkingLot.Domain.pdb
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\obj\Debug\net7.0\ParkingLot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\obj\Debug\net7.0\ParkingLot.Domain.AssemblyInfoInputs.cache
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\obj\Debug\net7.0\ParkingLot.Domain.AssemblyInfo.cs
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\obj\Debug\net7.0\ParkingLot.Domain.csproj.CoreCompileInputs.cache
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\obj\Debug\net7.0\ParkingLot.Domain.dll
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\obj\Debug\net7.0\refint\ParkingLot.Domain.dll
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\obj\Debug\net7.0\ParkingLot.Domain.pdb
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Domain\obj\Debug\net7.0\ref\ParkingLot.Domain.dll

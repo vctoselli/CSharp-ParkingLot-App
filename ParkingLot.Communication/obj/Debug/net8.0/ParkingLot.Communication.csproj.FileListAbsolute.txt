@@ -1,0 +1,11 @@
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\bin\Debug\net8.0\ParkingLot.Communication.deps.json
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\bin\Debug\net8.0\ParkingLot.Communication.dll
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\bin\Debug\net8.0\ParkingLot.Communication.pdb
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\obj\Debug\net8.0\ParkingLot.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\obj\Debug\net8.0\ParkingLot.Communication.AssemblyInfoInputs.cache
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\obj\Debug\net8.0\ParkingLot.Communication.AssemblyInfo.cs
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\obj\Debug\net8.0\ParkingLot.Communication.csproj.CoreCompileInputs.cache
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\obj\Debug\net8.0\ParkingLot.Communication.dll
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\obj\Debug\net8.0\refint\ParkingLot.Communication.dll
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\obj\Debug\net8.0\ParkingLot.Communication.pdb
+C:\WebDev\C#\Workspace\ParkingLot\ParkingLot.Communication\obj\Debug\net8.0\ref\ParkingLot.Communication.dll

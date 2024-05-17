@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E209E75-E6DB-4911-8223-C587FCE0C2F4}|ParkingLot.Application\\ParkingLot.Application.csproj|c:\\webdev\\c#\\workspace\\parkinglot\\parkinglot.application\\usecases\\dovehiclecheckoutusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E209E75-E6DB-4911-8223-C587FCE0C2F4}|ParkingLot.Application\\ParkingLot.Application.csproj|solutionrelative:parkinglot.application\\usecases\\dovehiclecheckoutusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024A0949-B89A-4577-B4B4-D30A845BEEB8}|ParkingLot.Domain\\ParkingLot.Domain.csproj|c:\\webdev\\c#\\workspace\\parkinglot\\parkinglot.domain\\services\\farecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024A0949-B89A-4577-B4B4-D30A845BEEB8}|ParkingLot.Domain\\ParkingLot.Domain.csproj|solutionrelative:parkinglot.domain\\services\\farecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF096E0-30D4-403F-9393-2C6C665ECD79}|ParkingLot.API\\ParkingLot.API.csproj|c:\\webdev\\c#\\workspace\\parkinglot\\parkinglot.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF096E0-30D4-403F-9393-2C6C665ECD79}|ParkingLot.API\\ParkingLot.API.csproj|solutionrelative:parkinglot.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF096E0-30D4-403F-9393-2C6C665ECD79}|ParkingLot.API\\ParkingLot.API.csproj|c:\\webdev\\c#\\workspace\\parkinglot\\parkinglot.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF096E0-30D4-403F-9393-2C6C665ECD79}|ParkingLot.API\\ParkingLot.API.csproj|solutionrelative:parkinglot.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E209E75-E6DB-4911-8223-C587FCE0C2F4}|ParkingLot.Application\\ParkingLot.Application.csproj|c:\\webdev\\c#\\workspace\\parkinglot\\parkinglot.application\\usecases\\dovehiclecheckinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E209E75-E6DB-4911-8223-C587FCE0C2F4}|ParkingLot.Application\\ParkingLot.Application.csproj|solutionrelative:parkinglot.application\\usecases\\dovehiclecheckinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E209E75-E6DB-4911-8223-C587FCE0C2F4}|ParkingLot.Application\\ParkingLot.Application.csproj|c:\\webdev\\c#\\workspace\\parkinglot\\parkinglot.application\\usecases\\getvehiclebylicenseplateusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E209E75-E6DB-4911-8223-C587FCE0C2F4}|ParkingLot.Application\\ParkingLot.Application.csproj|solutionrelative:parkinglot.application\\usecases\\getvehiclebylicenseplateusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FareCalculator.cs",
+              "DocumentMoniker": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.Domain\\Services\\FareCalculator.cs",
+              "RelativeDocumentMoniker": "ParkingLot.Domain\\Services\\FareCalculator.cs",
+              "ToolTip": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.Domain\\Services\\FareCalculator.cs",
+              "RelativeToolTip": "ParkingLot.Domain\\Services\\FareCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:24:33.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoVehicleCheckInUseCase.cs",
+              "DocumentMoniker": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.Application\\UseCases\\DoVehicleCheckInUseCase.cs",
+              "RelativeDocumentMoniker": "ParkingLot.Application\\UseCases\\DoVehicleCheckInUseCase.cs",
+              "ToolTip": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.Application\\UseCases\\DoVehicleCheckInUseCase.cs",
+              "RelativeToolTip": "ParkingLot.Application\\UseCases\\DoVehicleCheckInUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:39:57.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetVehicleByLicensePlateUseCase.cs",
+              "DocumentMoniker": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.Application\\UseCases\\GetVehicleByLicensePlateUseCase.cs",
+              "RelativeDocumentMoniker": "ParkingLot.Application\\UseCases\\GetVehicleByLicensePlateUseCase.cs",
+              "ToolTip": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.Application\\UseCases\\GetVehicleByLicensePlateUseCase.cs",
+              "RelativeToolTip": "ParkingLot.Application\\UseCases\\GetVehicleByLicensePlateUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:27:39.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoVehicleCheckOutUseCase.cs",
+              "DocumentMoniker": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.Application\\UseCases\\DoVehicleCheckOutUseCase.cs",
+              "RelativeDocumentMoniker": "ParkingLot.Application\\UseCases\\DoVehicleCheckOutUseCase.cs",
+              "ToolTip": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.Application\\UseCases\\DoVehicleCheckOutUseCase.cs",
+              "RelativeToolTip": "ParkingLot.Application\\UseCases\\DoVehicleCheckOutUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:23:47.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.API\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "ParkingLot.API\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.API\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "ParkingLot.API\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:15:32.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.API\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ParkingLot.API\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\WebDev\\C#\\Workspace\\ParkingLot\\ParkingLot.API\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "ParkingLot.API\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:49:44.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
