@@ -29,7 +29,7 @@ namespace ParkingLot.Application.UseCases
             if (entity.CheckedIn == false)
                 throw new ConflictException($"Vehicle with provided License Plate checked-out already.");
 
-            Validate(entity.LicensePlate, entity.CheckInTime);
+            Validate(entity.CheckInTime);
 
             // Checks Out vehicle from database 
             entity.CheckedIn = false;
@@ -53,7 +53,7 @@ namespace ParkingLot.Application.UseCases
                 FareValue = fareValue
             };
         }
-        private void Validate(string licensePlate, DateTime checkInTime)
+        private static void Validate(DateTime checkInTime)
         {
             /* if (string.IsNullOrWhiteSpace(licensePlate))
                 throw new ErrorOnValidationException($"License plate can't be null or whitespace. {licensePlate}");

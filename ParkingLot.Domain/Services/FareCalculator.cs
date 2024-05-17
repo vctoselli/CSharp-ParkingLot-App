@@ -16,7 +16,7 @@
             else
                 payAmount = 300; // After 24 hours, turns into a monthly fee of #300.
 
-            if (vehicleType == "Bike")
+            if (vehicleType == "BIKE")
                 return payAmount /= 2;
 
             return payAmount;
